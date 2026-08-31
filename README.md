@@ -2,16 +2,12 @@
 
 A responsive personal portfolio website built with **pure HTML & CSS** (no frameworks, no JavaScript) as part of the Web Development — Task 1 assignment.
 
-**Live site:** _add your deployed link here (GitHub Pages)_
-
-![status](https://img.shields.io/badge/status-in--progress-e8b84b)
-![built with](https://img.shields.io/badge/built%20with-HTML%20%26%20CSS-6c8cff)
 
 ---
 
 ##  Overview
 
-The site is designed around a "developer console" theme — dark navy background, gold accent, monospace labels styled like code comments, and a hero section built to look like a terminal. Motion is done entirely in CSS: a typing-cursor effect in the hero, staggered fade-ins, animated skill bars, and hover/scroll interactions — no JavaScript required.
+The site is designed around a "developer console" theme — dark navy background, gold accent, monospace labels styled like code comments, and a hero section built to look like a terminal. Motion is done entirely in CSS: a typing-cursor effect in the hero, staggered fade-ins, animated skill bars, and hover/scroll interactions.
 
 ##  Sections
 
