@@ -59,6 +59,10 @@ Tested breakpoints at 1024px (tablet) and 720px (mobile), with a CSS-only hambur
 
 Personal project — feel free to fork and adapt for your own portfolio.
 
+##  Deployed via Netlify:
+
+https://flourishing-melomakarona-a12d61.netlify.app/ 
+
 ---
 
 **Author:** Siddharth Singh, Web Development

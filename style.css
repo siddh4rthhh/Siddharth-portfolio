@@ -4,16 +4,16 @@
 
 :root {
  
-  --ink:        #0a0e1a;   /* page background */
-  --panel:      #111827;   /* card / section-alt background */
-  --panel-2:    #161f33;   /* slightly raised panel */
-  --line:       #232d45;   /* hairline borders */
-  --text:       #e8eaf0;   /* primary text */
-  --muted:      #8b93a7;   /* secondary text */
-  --gold:       #e8b84b;   /* primary accent */
+  --ink:        #0a0e1a;   
+  --panel:      #111827;  
+  --panel-2:    #161f33;   
+  --line:       #232d45;   
+  --text:       #e8eaf0;   
+  --muted:      #8b93a7;   
+  --gold:       #e8b84b;   
   --gold-dim:   #a5822f;
-  --indigo:     #6c8cff;   /* secondary accent (links/highlights) */
-  --green:      #57d38c;   /* "online / available" status */
+  --indigo:     #6c8cff;   
+  --green:      #57d38c;   
 
  
   --font-display: 'Fraunces', Georgia, serif;
