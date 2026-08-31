@@ -344,18 +344,7 @@ h1, h2, h3 {
   position: relative;
   z-index: 1;
 }
-/* .caption is the wrapper around the real photo — give it the full
-   frame so the <img> inside has something to fill */
 .about-photo .caption {
-  display: block;
-  width: 100%;
-  height: 100%;
-  position: relative; /* lifts it above the ::after grid overlay */
-  z-index: 1;
-}
-/* object-fit only works on the <img> itself, not on the span
-   wrapping it — this is what actually crops the photo to fit */
-.about-photo .caption img {
   width: 100%;
   height: 100%;
   object-fit: cover;
